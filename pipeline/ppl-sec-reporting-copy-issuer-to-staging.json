@@ -1,0 +1,7 @@
+{
+	"name": "ppl-sec-reporting-copy-issuer-to-staging",
+	"properties": {
+		"description": "Copies issuer data from ScopeWorks Analysis data to SEC-REPORTING staging tables",
+		"annotations": []
+	}
+}
